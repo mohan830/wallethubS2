@@ -1,0 +1,10 @@
+com/tests/BaseStep.class
+com/pages/WalletHubProfilePage.class
+com/services/WebDriverService.class
+com/pages/BasePage.class
+com/tests/WalletHubStepdefs.class
+com/pages/WalletHubReviewPage.class
+RunCukesTest.class
+com/pages/FacebookLoginPage.class
+com/pages/FacebookHomePage.class
+com/tests/FacebookStepdefs.class
